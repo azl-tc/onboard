@@ -1,3 +1,4 @@
 Setted up git 
 Refreshed on using git as version control
 ctrl+O for saving ctrl+k for deleting line
+conflicting line mgmt
